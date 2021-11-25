@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621275787 source:c:\program files\codeblocks\mingw\desafio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"agenda.h"
+
+1621277438 c:\program files\codeblocks\mingw\desafio3\agenda.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
